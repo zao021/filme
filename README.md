@@ -1,29 +1,34 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id=”” group-title=”” tvg-logo=”impuros" , TEMP 3 EP 3
-https://violinomargarina.ml/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP03.mp4?mu3zAQc9HC3GbwJq=nvHlHwtDEwUg88wKlCQOOQ&3U1G7qaTxrPbalZnEx=1679977425
+
+https://controlemilhos.gq/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP03.mp4?mu3zAQc9HC3GbwJq=rITKQMIpnyFpEu0a835mlg&3U1G7qaTxrPbalZnEx=1680032983
 
 #EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , TEMP 3 EP 4
-https://vermelhomisturado.tk/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP04.mp4?mu3zAQc9HC3GbwJq=Bec91Y3CU2hR4QiB-PcIqw&3U1G7qaTxrPbalZnEx=1679977475
+
+https://uniformever.ga/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP04.mp4?mu3zAQc9HC3GbwJq=2xI0ACT_S0OWpUk_YDsW4w&3U1G7qaTxrPbalZnEx=1680033097
 
 #EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , TEMP 3 EP 5
-https://isqueirojogado.gq/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST02EP05.mp4?mu3zAQc9HC3GbwJq=AgsNLjlo3WhRW6hjVTJdeQ&3U1G7qaTxrPbalZnEx=1679977533
+
+https://capajardim.cf/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP05.mp4?mu3zAQc9HC3GbwJq=SntZ7IV-ahAVWU13yOpxVg&3U1G7qaTxrPbalZnEx=1680033146
 
 #EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , TEMP 3 EP 6
-https://acalmabravo.gq/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP06.mp4?mu3zAQc9HC3GbwJq=VaNABaDl-_yoWIEBerhc0A&3U1G7qaTxrPbalZnEx=1679977600
+
+https://isqueirojogado.gq/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP06.mp4?mu3zAQc9HC3GbwJq=QHJACmJvfTShi1qte_ljqg&3U1G7qaTxrPbalZnEx=1680033205
 
 #EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , TEMP 3 EP 7
-https://colchafofa.tk/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP07.mp4?mu3zAQc9HC3GbwJq=BlimfP3-YsaYT8rdCOVIRw&3U1G7qaTxrPbalZnEx=1679977654
+
+https://iluminadavaranda.gq/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP07.mp4?mu3zAQc9HC3GbwJq=44YAzMwI5r_PXO6NIx-KcQ&3U1G7qaTxrPbalZnEx=1680033275
 
 #EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , TEMP 3 EP 8
-https://martepaella.cf/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP08.mp4?mu3zAQc9HC3GbwJq=WWi4zkJNobWNF5F8IQ4DkQ&3U1G7qaTxrPbalZnEx=1679977720
+
+https://toalhadupla.cf/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP08.mp4?mu3zAQc9HC3GbwJq=FnfgLIDwDtwtldLCAUGHHg&3U1G7qaTxrPbalZnEx=1680033343
 
 #EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , TEMP 3 EP 9
-https://piedademassagista.ml/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP09.mp4?mu3zAQc9HC3GbwJq=XPYtCt3mm7HMVAtVkjG8vw&3U1G7qaTxrPbalZnEx=1679977788
+
+https://montanhazeta.tk/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP09.mp4?mu3zAQc9HC3GbwJq=r1JMPH6OBshkg76oBj2Tgg&3U1G7qaTxrPbalZnEx=1680033404
 
 #EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , TEMP 3 EP 10
-https://chefemotor.ml/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP10.mp4?mu3zAQc9HC3GbwJq=VL_H-VpcmB0dUcvg87RBbA&3U1G7qaTxrPbalZnEx=1679977842
 
-
-
-
+https://iluminadocorte.gq/d/MP4/RedeCanais/RedeCanais/RCServer08/ondemand/IMPRST03EP10.mp4?mu3zAQc9HC3GbwJq=CwPWgGnYNTFxVWH_p3CICg&3U1G7qaTxrPbalZnEx=1680033463
 
