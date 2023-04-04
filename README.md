@@ -1,8 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , o sistema 
+#EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”" , op
 
-https://correntedoce.cf/d/MP4/RedeCanais/RedeCanais/RCFServer4/ondemand/VLZEFROSOS08.mp4?mu3zAQc9HC3GbwJq=IwaNB1lV9UgXvUys0Gdvfg&3U1G7qaTxrPbalZnEx=1680388575
+https://fronharural.tk/d/MP4/RedeCanais/RedeCanais/RCFServer4/ondemand/ONPCRED.mp4?mu3zAQc9HC3GbwJq=pwZ-nLVAUQ1LQBdUFFV1pA&3U1G7qaTxrPbalZnEx=1680652479
+
+
+
 
 
 
