@@ -1,8 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=”” group-title=”impuros” tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbOGSTg3NunWT7F6TPr0NBD_ZMwUUH8XoGTTPw3P-MvBqj1JmvvQorI9M&s=10" , alerta máxima
+#EXTINF:-1 tvg-id=”” group-title=”” tvg-logo=”impuros" , TEMP 3 EP 3
 
-https://enterrarassunto.tk/d/MP4/RedeCanais/RedeCanais/RCFServer4/ondemand/ALRTMXMO.mp4?mu3zAQc9HC3GbwJq=xkSkE5anw_evn0dYTF6tiQ&3U1G7qaTxrPbalZnEx=1681071390
+https://tomadafloral.tk/d/MP4/RedeCanais/RedeCanais/RCFServer4/ondemand/AVTROCMNHAGU.mp4?mu3zAQc9HC3GbwJq=iy8kIbWD1Wy8UetCpgo58g&3U1G7qaTxrPbalZnEx=1682374537
+
+
+
+
 
 
 
